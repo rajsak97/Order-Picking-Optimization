@@ -93,7 +93,7 @@ order_attr = [[4260135129403, "Sea Salt Kartoffelchips", 16, 150, 3, 0],
               [4260159950519, "Basilikum Pesto", 12, 180, 0, 0],
               [4018722343127, "Bio Hartweizen Fusilli", 6, 500, 3, 0],
               [4260519490013, "Frühsport Freunde Müsli", 9, 280, 2, 0],
-              ["dummy_ID", "Butter Croissant", "Bakery", 70, 3, 3]
+              [000000, "Butter Croissant", "Bakery", 70, 3, 3]
               ]
 print("\nInput order is: ", *order_attr, sep="\n")
 
